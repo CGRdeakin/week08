@@ -1,5 +1,5 @@
 # week08/backend/product_service/app/main.py
-# Updated for Week 8 CD -CGR
+# Updated for Week 8 CD -CGR Deakin
 
 import logging
 import os
