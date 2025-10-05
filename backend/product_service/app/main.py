@@ -94,7 +94,7 @@ RESTOCK_THRESHOLD = 5  # Threshold for restock notification
 app = FastAPI(
     title="Product Service API",
     description="Manages products and stock for mini-ecommerce app, with Azure Storage integration.",
-    version="1.0.0",
+    version="1.0.1",
 )
 
 # Enable CORS (for frontend dev/testing)
